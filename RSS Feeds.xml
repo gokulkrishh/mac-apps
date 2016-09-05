@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>Monotony Feed Subscriptions</title>
+    </head>
+    <body>
+        <outline text="Android Police – Android News, Apps, Games, Phones, Tablets" title="Android Police – Android News, Apps, Games, Phones, Tablets" type="rss" xmlUrl="http://www.androidpolice.com/feed/"></outline>
+        <outline text="Dev Channel - Medium" title="Dev Channel - Medium" type="rss" xmlUrl="https://medium.com/feed/dev-channel"></outline>
+        <outline text="Google Design - Medium" title="Google Design - Medium" type="rss" xmlUrl="https://medium.com/feed/google-design"></outline>
+        <outline text="Google Developers Blog" title="Google Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GDBcode"></outline>
+        <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"></outline>
+        <outline text="Stories by Medium on Medium" title="Stories by Medium on Medium" type="rss" xmlUrl="https://medium.com/feed/@Medium"></outline>
+    </body>
+</opml>
